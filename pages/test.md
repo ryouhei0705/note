@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GitHub Flowでの手順
+title:  Flowでの手順
 ---
 
 # GitHub Flowでの手順
@@ -26,3 +26,4 @@ git pull origin main
 
 # 新しいブランチを作成
 git checkout -b feature/1-make-user-page
+```
