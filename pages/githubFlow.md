@@ -2,10 +2,9 @@
 layout: default
 title: GitHub Flowでの手順
 ---
+> **注意:** この備忘録は生成AIによる未検証の内容を含みます。
 
 # GitHub Flowでの手順
-
-> **注意:** この備忘録は生成AIによる未検証の内容を含みます。
 
 ## issueを立てる
 - GitHubのリポジトリ画面で「Issues」タブを開き、「New Issue」をクリックします。
