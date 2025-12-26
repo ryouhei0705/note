@@ -9,3 +9,4 @@ title: 目次
 
 * [GitHub Flowでの手順](./pages/githubFlow.md)
 * [Railwayへのデプロイ手順](./pages/railwayDeploy.md)
+* [gitで過去に戻る方法](./pages/gitReturnPast.md)
