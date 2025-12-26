@@ -1,0 +1,22 @@
+# すべてのクローラーに対して、このサイト以下の全ファイルを拒否
+User-agent: *
+Disallow: /
+
+# 特にAI学習用クローラーを名指しでブロック
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: AnthropicAI
+Disallow: /
+
+User-agent: Omilex
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
