@@ -6,6 +6,7 @@ title: Railwayへのデプロイ手順
 
 # Railwayへのデプロイ手順
 - Railwayは、GitHubリポジトリを連携するだけでインフラ構成を自動判別（Nixpacks）してデプロイしてくれるPaaSです。
+- [Railwayの公式リファレンス](https://docs.railway.com)
 
 ## 1. Railway上でのMySQLセットアップ
 
